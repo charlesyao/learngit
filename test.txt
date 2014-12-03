@@ -6,3 +6,5 @@ abc
 def
 qwe
 My stupid boss still prefers SVN         aa.
+
+new branch
